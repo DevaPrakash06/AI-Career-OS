@@ -34,7 +34,7 @@ try{
 
 const res=
 await axios.post(
-"http://127.0.0.1:8000/upload",
+"https://ai-career-os-api.onrender.com/upload",
 form
 )
 
