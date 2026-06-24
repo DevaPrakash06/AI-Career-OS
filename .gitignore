@@ -1,0 +1,16 @@
+venv/
+.venv/
+
+node_modules/
+
+.env
+
+__pycache__/
+
+resume.pdf
+
+dist/
+
+build/
+
+*.pyc
